@@ -6,7 +6,9 @@
     "antd-dark.css",
     "antd-dark.rawcss",
     "antd-light.css",
-    "antd-light.rawcss"
+    "antd-light.rawcss",
+    "antd-yellow-light.css",
+    "antd-yellow-light.rawcss"
   ],
   "scripts": {
     "prepublishOnly": "node build.js"
