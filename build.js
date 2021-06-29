@@ -15,6 +15,10 @@ const sources = {
         "antd-yellow-light.css",
         "antd-yellow-light.rawcss",
     ],
+    "./src/themes/sapphire/antd.less": [
+        "antd-sapphire.css",
+        "antd-sapphire.rawcss",
+    ],
 }
 
 const options = {
