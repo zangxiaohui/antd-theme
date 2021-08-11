@@ -19,6 +19,10 @@ const sources = {
         "antd-sapphire.css",
         "antd-sapphire.rawcss",
     ],
+    "./src/themes/juntong/antd.less": [
+        "antd-juntong.css",
+        "antd-juntong.rawcss",
+    ],
 }
 
 const options = {

@@ -1,6 +1,6 @@
 {
   "name": "@maxtropy/antd-theme",
-  "version": "2.0.1-alpha.6",
+  "version": "2.0.1-alpha.7",
   "description": "",
   "files": [
     "antd-dark.css",
@@ -10,7 +10,9 @@
     "antd-yellow-light.css",
     "antd-yellow-light.rawcss",
     "antd-sapphire.css",
-    "antd-sapphire.rawcss"
+    "antd-sapphire.rawcss",
+    "antd-juntong.css",
+    "antd-juntong.rawcss"
   ],
   "scripts": {
     "prepublishOnly": "node build.js"
