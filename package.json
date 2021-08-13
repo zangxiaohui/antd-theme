@@ -1,6 +1,6 @@
 {
   "name": "@maxtropy/antd-theme",
-  "version": "2.0.1-alpha.8",
+  "version": "2.0.1-alpha.9",
   "description": "",
   "files": [
     "antd-dark.css",
@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "antd": "^4.15.1",
+    "antd": "^4.16.11",
     "less": "^4.1.1",
     "less-plugin-npm-import": "^2.1.0"
   }
