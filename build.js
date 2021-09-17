@@ -23,6 +23,10 @@ const sources = {
         "antd-juntong.css",
         "antd-juntong.rawcss",
     ],
+    "./src/themes/gray/antd.less": [
+        "antd-gray.css",
+        "antd-gray.rawcss",
+    ],
 }
 
 const options = {

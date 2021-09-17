@@ -1,6 +1,6 @@
 {
   "name": "@maxtropy/antd-theme",
-  "version": "2.0.1-alpha.9",
+  "version": "2.0.1-alpha.10",
   "description": "",
   "files": [
     "antd-dark.css",
@@ -12,7 +12,9 @@
     "antd-sapphire.css",
     "antd-sapphire.rawcss",
     "antd-juntong.css",
-    "antd-juntong.rawcss"
+    "antd-juntong.rawcss",
+    "antd-gray.css",
+    "antd-gray.rawcss"
   ],
   "scripts": {
     "prepublishOnly": "node build.js"
@@ -20,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "antd": "^4.16.11",
+    "antd": "^4.16.13",
     "less": "^4.1.1",
     "less-plugin-npm-import": "^2.1.0"
   }
